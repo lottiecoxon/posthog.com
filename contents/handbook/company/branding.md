@@ -72,7 +72,7 @@ If possible, all artwork is to be made with these colours, as well as typography
 
 ###### Font Specifications 
 
-* Family: Gosha Sans (Regular)
+* Family: Helvetica Neue (Regular)
 * Size: 36px
 * Line Height: 60
 * Color: Black
@@ -82,7 +82,7 @@ If possible, all artwork is to be made with these colours, as well as typography
 
 ###### Font Specifications 
 
-* Family: Gosha Sans (Regular)
+* Family: Helvetica Neue (Regular)
 * Size: 30px
 * Line Height: 50
 * Color: Black
@@ -92,7 +92,7 @@ If possible, all artwork is to be made with these colours, as well as typography
 
 ###### Font Specifications 
 
-* Family: Gosha Sans (Regular)
+* Family: Helvetica Neue (Regular)
 * Size: 20px
 * Line Height: 35
 * Color: Black
@@ -102,7 +102,7 @@ If possible, all artwork is to be made with these colours, as well as typography
 
 ###### Font Specifications 
 
-* Family: Gosha Sans (Regular)
+* Family: Helvetica Neue (Regular)
 * Size: 18px
 * Line Height: 30
 * Color: Black
@@ -112,7 +112,7 @@ If possible, all artwork is to be made with these colours, as well as typography
 
 ###### Font Specifications 
 
-* Family: Gosha Sans (Regular)
+* Family: Helvetica Neue (Regular)
 * Size: 16px
 * Line Height: 25
 * Color: Black
@@ -122,7 +122,7 @@ If possible, all artwork is to be made with these colours, as well as typography
 
 ###### Font Specifications 
 
-* Family: Gosha Sans (Regular)
+* Family: Helvetica Neue (Regular)
 * Size: 16px
 * Line Height: 20
 * Color: Black
@@ -246,7 +246,7 @@ The header consists of the logo (206 W x 40.13 H) centered, a menu bar (36 W x 3
 
 ###### Font Specifications 
 
-* Family: Gosha Sans (Regular)
+* Family: Helvetica Neue (Regular)
 * Size: 12px
 * Line Height: 20
 * Color: Black
@@ -256,7 +256,7 @@ The header consists of the logo (206 W x 40.13 H) centered, a menu bar (36 W x 3
 
 ###### Font Specifications 
 
-* Family: Gosha Sans (Regular)
+* Family: Helvetica Neue (Regular)
 * Size: 10px
 * Line Height: 20
 * Color: Black

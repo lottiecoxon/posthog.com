@@ -54,7 +54,7 @@ If possible, all artwork is to be made with these colours, as well as typography
 
 * Family: Gosha Sans (Regular)
 * Size: 64px
-* Line Height: 100
+* Line Height: 96
 * Color: Black
 * Opacity: 100%
 
@@ -64,7 +64,7 @@ If possible, all artwork is to be made with these colours, as well as typography
 
 * Family: Gosha Sans (Regular)
 * Size: 48px
-* Line Height: 70
+* Line Height: 72
 * Color: Black
 * Opacity: 100%
 
@@ -73,8 +73,8 @@ If possible, all artwork is to be made with these colours, as well as typography
 ###### Font Specifications 
 
 * Family: Gosha Sans (Regular)
-* Size: 36px
-* Line Height: 60
+* Size: 40px
+* Line Height: 64
 * Color: Black
 * Opacity: 100%
 
@@ -83,18 +83,8 @@ If possible, all artwork is to be made with these colours, as well as typography
 ###### Font Specifications 
 
 * Family: Gosha Sans (Regular)
-* Size: 30px
-* Line Height: 50
-* Color: Black
-* Opacity: 100%
-
-#### Extra Large Text
-
-###### Font Specifications 
-
-* Family: Gosha Sans (Regular)
-* Size: 20px
-* Line Height: 35
+* Size: 32px
+* Line Height: 48
 * Color: Black
 * Opacity: 100%
 
@@ -103,8 +93,8 @@ If possible, all artwork is to be made with these colours, as well as typography
 ###### Font Specifications 
 
 * Family: Gosha Sans (Regular)
-* Size: 18px
-* Line Height: 30
+* Size: 24px
+* Line Height: 32
 * Color: Black
 * Opacity: 100%
 
@@ -114,7 +104,7 @@ If possible, all artwork is to be made with these colours, as well as typography
 
 * Family: Gosha Sans (Regular)
 * Size: 16px
-* Line Height: 25
+* Line Height: 24
 * Color: Black
 * Opacity: 100%
 
@@ -123,10 +113,10 @@ If possible, all artwork is to be made with these colours, as well as typography
 ###### Font Specifications 
 
 * Family: Gosha Sans (Regular)
-* Size: 16px
-* Line Height: 20
+* Size: 8px
+* Line Height: 16
 * Color: Black
-* Opacity: 30%
+* Opacity: 100%
 
 #### Note
 
